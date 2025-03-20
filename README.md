@@ -11,3 +11,4 @@ This is a repository with mainly markdown files!
 John Doe
 Mickey Mouse
 Donald Duck
+Pluto
